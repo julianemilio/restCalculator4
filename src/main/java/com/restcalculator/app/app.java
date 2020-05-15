@@ -20,7 +20,7 @@ public class app {
 		    clearConsole(); 
 			System.out.println();
 			System.out.println("********************************************");
-			System.out.println("*         **** Aplicación POS ****         *");
+			System.out.println("*         **** Aplicacion POS ****         *");
 			System.out.println("********************************************");
 			System.out.println(" Opciones del aplicativo");
 			System.out.println();
@@ -28,7 +28,7 @@ public class app {
 			System.out.println(" 2 - Para liquidar factura");
 			System.out.println(" 9 - Para salir");
 			System.out.println();
-			System.out.print(" Digite su opción: ");					
+			System.out.print(" Digite su opcion: ");					
 			
 			BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 			opc = br.readLine();
